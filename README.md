@@ -1,2 +1,2 @@
 
-viewing craters on mars
+Aplicação interessante para visualizar crateras de Marte.
